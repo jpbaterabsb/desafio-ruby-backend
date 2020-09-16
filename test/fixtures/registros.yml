@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  data: 2020-09-14 18:12:22
+  valor: 30.0
+  CPF: 48424815017
+  cartao: 4321****1234
+
+two:
+  data: 2020-09-14 18:12:22
+  valor: -20
+  CPF: 48424815017
+  cartao: 1234****4321

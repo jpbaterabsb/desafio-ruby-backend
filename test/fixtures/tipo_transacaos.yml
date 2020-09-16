@@ -1,0 +1,36 @@
+one:
+  id: 1
+  descricao: Débito
+  natureza: 0
+two:
+  id: 2
+  descricao: Boleto
+  natureza: 1
+three:
+  id: 3
+  descricao: Financiamento
+  natureza: 1
+four:
+  id: 4
+  descricao: Crédito
+  natureza: 0
+five:
+  id: 5
+  descricao: Recebimento Empréstimo
+  natureza: 0
+six:
+  id: 6
+  descricao: Vendas
+  natureza: 0
+seven:
+  id: 7
+  descricao: Recebimento TED
+  natureza: 0
+eight:
+  id: 8
+  descricao: Recebimento DOC
+  natureza: 0
+nine:
+  id: 9
+  descricao: Aluguel
+  natureza: 1
